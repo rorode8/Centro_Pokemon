@@ -22,4 +22,6 @@ La aplicación esta diseñada con una arquitectura **Model–view–controller**
 2. Descarga el repositorio, ya sea que lo descargues o lo clones via Git o descargues Centro_Pokemon-master via GitHub.
 3. Ejecuta el archivo `RUN.jar`
 
+## Uso 
+
 
