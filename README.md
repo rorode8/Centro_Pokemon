@@ -24,11 +24,15 @@ La aplicación esta diseñada con una arquitectura **Model–view–controller**
 
 ## Uso 
 
+### Inicio
+
 Al Abrir el programa, la primera ventana que observarás es la siguiente:
 
   ![](https://i.imgur.com/FO903cg.png "primera pantalla")
  
 Aquí podrás rellenar algunos datos acerca del Centro Pokémon en específico. El programa usa los datos que proporciones aquí para generar una entidad representativa dentro de la aplicación. Una vez que hayan prorcionado la información necesaria, puedes continuar y presionar el botón *accept*.
+
+### Pantalla Principal
 
   ![](https://i.imgur.com/QEcDxmw.png "panel principal")
   
