@@ -1,0 +1,1423 @@
+251
+Bulbasaur
+Grass
+Poison
+1
+For some time after its bitch, it grows by gaining nourishment from the seed on its back.
+Ivysaur
+Grass
+Poison
+2
+When the bud on its back starts swelling, a sweet aroma wafts to indicate the flowers coming bloom.
+Venusaur
+Grass
+Poison
+3
+After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.
+Charmander
+Fire
+
+4
+The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.
+Charmeleon
+Fire
+
+5
+In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.
+Charizard
+Fire
+Flying 
+6
+It is said that Charizards fire burns hotter if it has experienced harsh battles.
+Squirtle
+Water
+
+7
+It shelters itself in its shell then strikes back with spouts of water at every opportunity.
+Wartortle
+Water
+
+8
+it is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.
+Blastoise
+Water
+
+9
+The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.
+Caterpie
+Bug
+
+10
+It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.
+Metapod
+Bug
+
+11
+A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.
+Butterfree
+Bug
+Flying
+12
+It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.
+Weedle
+Bug
+Poison
+13
+It eats its weight in leaves every day. It fends off attackers with the needle on its head.
+Kakuna
+Bug
+Poison
+14
+While awaiting evolution, it hides from predators under leaves and in nooks of branches.
+Beedrill
+Bug
+Poison
+15
+Its best attack involves flying around at high speed, striking with poison needles, then flying off.
+Pidgey
+Flying 
+Normal
+16
+It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.
+Pidgeotto
+Flying
+Normal
+17
+It flies over its wide territory in search of prey, downing it with its highly developed claws.
+Pidgeot
+Flying
+Normal
+18
+It flies over its wide territory in search of prey, downing it with its highly developed claws.
+Rattata
+Normal
+
+19
+It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime.
+Raticate
+Normal
+
+20
+With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease.
+Spearow
+Flying
+Normal
+21
+It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.
+Fearow
+Flying
+Normal
+22
+It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.
+Ekans
+Poison
+
+23
+It sneaks through grass without making a sound and strikes unsuspecting prey from behind.
+Arbok
+Poison
+
+24
+The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.
+Pikachu
+Electric
+
+25
+It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
+Raichu
+Electric
+
+26
+its tail discharges electricity into the ground, protecting it from getting shocked.
+Sandshrew
+Ground
+
+27
+It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.
+Sandslash
+Ground
+
+28
+The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.
+NidoranF
+Poison
+
+29
+While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.
+Nidorina
+Poison
+
+30
+When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorinos.
+Nidoqueen
+Ground
+Poison
+31
+Its entire body is armored with hard scales. It will protect the young in its burrow with its life.
+NidoranM
+Poison
+
+32
+It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.
+Nidorino
+Poison
+
+33
+It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.
+Nidoking
+Poison
+Ground
+34
+One swing of its mighty tail can snap a telephone pole as if it were a matchstick.
+Clefairy
+Fairy
+
+35
+On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.
+Clefable
+Fairy
+
+36
+Their ears are sensitive enough to hear a pin drop from over a mile away, so theyre usually found in quiet places.
+vulpix
+Fire
+
+37
+As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.
+Ninetales
+Fire
+
+38
+Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.
+Jigglypuff
+Fairy
+Normal
+39
+Looking into its cute, round eyes makes it start singing a song so pleasant listeners cant help but fall asleep.
+Wigglytuff
+Fairy
+Normal
+40
+Its fine fur feels so pleasant, those who accidentally touch it cannot take their hands away.
+Zubat
+Poison
+Flying
+41
+It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.
+Golbat
+Poison
+Flying
+42
+Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.
+Oddish
+Grass
+Poison
+43
+It often plants its root feet in the ground during the day and sows seeds as it walks about at night.
+Gloom
+Grass
+Poison
+44
+The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.
+Vileplume
+Grass
+Poison
+45
+Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.
+Paras
+Grass
+Bug
+46
+Mushrooms named tochukaso grow on its back. They grow along with the host Paras.
+Parasect
+Grass
+Bug
+47
+A mushroom grown larger than the hosts body controls Parasect. It scatters poisonous spores.
+Venonat
+Bug
+Poison
+48
+Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.
+Venomoth
+Bug
+Poison
+49
+It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.
+Diglett
+Ground
+
+50
+A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.
+Dugtrio
+Ground
+
+51
+Its three heads move alternately, driving it through tough soil to depths of over 60 miles.
+Meowth
+Normal
+
+52
+It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.
+Persian
+Normal
+
+53
+A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.
+Psyduck
+Water
+
+54
+When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.
+Golduck
+Water
+
+55
+When its forehead shines mysteriously, Golduck can use the full extent of its power.
+Mankey
+Fighting
+
+56
+It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.
+Primeape
+Fighting
+
+57
+It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.
+Growlithe
+Fire
+
+58
+Extremely loyal to its Trainer, it will bark at those who approach the Trainer unexpectedly and run them out of town.
+Arcanine
+Fire
+
+59
+The sight of it running over 6,200 miles in a single day and night has captivated many people.
+Poliwag
+Water
+
+60
+Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.
+Poliwhirl
+Water
+
+61
+The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.
+Poliwrath
+Water
+Fighting
+62
+With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.
+Abra
+Psychic
+
+63
+Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
+Kadabra
+Psychic
+
+64
+It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.
+Alakazam
+Psychic
+
+65
+The spoons clutched in its hands are said to have been created by its psychic powers.
+Machop
+Fighting
+
+66
+Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.
+Machoke
+Fighting
+
+67
+It happily carries heavy cargo to toughen up. It willingly does hard work for people.
+Machamp
+Fighting
+
+68
+Its four muscled arms slam foes with powerful punches and chops at blinding speed.
+Bellsprout
+Grass
+Poison
+69
+It prefers hot and humid environments. It is quick at capturing prey with its vines.
+Weepinbell
+Grass
+Poison
+70
+A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.
+Victreebel
+Grass
+Poison
+71
+It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything.
+Tentacool
+Water
+Poison
+72
+Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.
+Tentacruel
+Water
+Poison
+73
+It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.
+Geodude
+Rock
+Ground
+74
+At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.
+Graveler
+Rock
+Ground
+75
+It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.
+Golem
+Rock
+Ground
+76
+Even dynamite cant harm its hard, boulder-like body. It sheds its hide just once a year.
+Ponyta
+Fire
+
+77
+As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.
+Rapidash
+Fire
+
+78
+When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.
+Slowpoke
+Psychic
+Water
+79
+Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.
+Slowbro
+Psychic
+Water
+80
+Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.
+Magnemite
+Electric
+Steel
+81
+The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.
+Magneton
+Electric
+Steel
+82
+The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.
+Farfetch'd
+Flying
+Normal
+83
+It cant live without the stalk it holds. Thats why it defends the stalk from attackers with its life.
+Doduo
+Flying
+Normal
+84
+The brains in its two heads appear to communicate emotions to each other with a telepathic power.
+Dodrio
+Flying
+Normal
+85
+When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.
+Seel
+Water
+
+86
+The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice.
+Dewgong
+Ice
+Water
+87
+Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots.
+Grimer
+Poison
+
+88
+Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.
+Muk
+Poison
+
+89
+Its so stinky! Muks body contains toxic elements, and any plant will wilt when it passes by.
+Shellder
+Water
+
+90
+It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.
+Cloyster
+Ice
+Water
+91
+It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.
+Gastly
+Ghost
+Poison
+92
+Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.
+Haunter
+Ghost
+Poison
+93
+It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.
+Gengar
+Ghost
+Poison
+94
+The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.
+Onix
+Rock
+Ground
+95
+Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.
+Drowzee
+Psychic
+
+96
+It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.
+Hypno
+Psychic
+
+97
+Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.
+Krabby
+Water
+
+98
+It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.
+Kingler
+Water
+
+99
+The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.
+Voltorb
+Electric
+
+100
+It looks just like a Pok Ball. It is dangerous because it may electrocute or explode on contact.
+Electrode
+Electric
+
+101
+It is known to drift on winds if it is bloated to bursting with stored electricity.
+Exeggcute
+Psychic
+Grass
+102
+Its six eggs converse using telepathy. They can quickly gather if they become separated.
+Exeggutor
+Psychic
+Grass
+103
+It is called The Walking Jungle. If a head grows too big, it falls off and becomes an Exeggcute.
+Cubone
+Ground
+
+104
+When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.
+Marowak
+Ground
+
+105
+From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.
+Hitmonlee
+Fighting
+
+106
+Its legs can stretch double. First-time foes are startled by its extensible reach.
+Hitmonchan
+Fighting
+
+107
+The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.
+Lickitung
+Normal
+
+108
+Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail.
+Koffing
+Poison
+
+109
+Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.
+Weezing
+Poison
+
+110
+Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.
+Rhyhorn
+Rock
+Ground
+111
+Its powerful tackles can destroy anything. However, it is too slow witted to help people work.
+Rhydon
+Rock
+Ground
+112
+Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.
+Chansey
+Normal
+
+113
+A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokmon or people.
+Tangela
+Grass
+
+114
+Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.
+Kangaskhan
+Normal
+
+115
+It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.
+Horsea
+Water
+
+116
+It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.
+Seadra
+Water
+
+117
+Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.
+Goldeen
+Water
+
+118
+Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.
+Seaking
+Water
+
+119
+In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.
+Staryu
+Water
+
+120
+As long as its red core remains, it can regenerate its body instantly, even if its torn apart.
+Starmie
+Psychic
+Water
+121
+Its core shines in many colors and sends radio signals into space to communicate with something.
+Mr. Mime
+Psychic
+Fairy
+122
+It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.
+Scyther
+Bug
+Flying
+123
+The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.
+Jynx
+Psychic
+Ice
+124
+Its cries sound like human speech. However, it is impossible to tell what it is trying to say.
+Electabuzz
+Electric
+
+125
+Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.
+Magmar
+Fire
+
+126
+The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokémon clearly.
+Pinsir
+Bug
+
+127
+It grips prey with its powerful pincers and will not let go until the prey is torn in half.
+Tauros
+Normal
+
+128
+Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.
+Magikarp
+Water
+
+129
+A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.
+Gyarados
+Water
+Flying
+130
+Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.
+Lapras
+Ice
+Water
+131
+Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.
+Ditto
+Normal
+
+132
+It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.
+Eevee
+Normal
+
+133
+Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.
+Vaporeon
+Water
+
+134
+Its cell composition is similar to water molecules. As a result, it cant be seen when it melts away into water.
+Jolteon
+Electric
+
+135
+By storing electricity in its body, it can shoot its bristlelike fur like a barrage of missiles.
+Flareon
+Fire
+
+136
+Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F.
+Porygon
+Normal
+
+137
+A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.
+Omanyte
+Water
+Rock
+138
+A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.
+Omastar
+Water
+Rock
+139
+It is thought that this Pokémon became extinct because its spiral shell grew too large.
+Kabuto
+Water
+Rock
+140
+It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.
+Kabutops
+Water
+Rock
+141
+It is thought that this Pokémon came onto land because its prey adapted to life on land.
+Aerodactyl
+Rock
+Flying
+142
+A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.
+Snorlax
+Normal
+
+143
+When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.
+Articuno
+Ice
+Flying
+144
+A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.
+Zapdos
+Electric
+Flying
+145
+A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.
+Moltres
+Fire
+Flying
+146
+One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.
+Dratini
+Dragon
+
+147
+It is called the Mirage Pokémon because so few have seen it. Its shed skin has been found.
+Dragonair
+Dragon
+
+148
+If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.
+Dragonite
+Dragon
+Flying
+149
+It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.
+Mewtwo
+Psychic
+
+150
+A Pokémon created by recombining Mews genes. Its said to have the most savage heart among Pokemon.
+Mew
+Psychic
+
+151
+Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.
+Chikorita
+Grass
+
+152
+It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.
+Bayleef
+Grass
+
+153
+The buds that ring its neck give off a spicy aroma that perks people up.
+Meganium
+Grass
+
+154
+Its breath has the fantastic ability to revive dead plants and flowers.
+Cyndaquil
+Fire
+
+155
+It has a timid nature. If it is startled, the flames on its back burn more vigorously.
+Quilava
+Fire
+
+156
+It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.
+Typhlosion
+Fire
+
+157
+It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.
+Totodile
+Water
+
+158
+It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.
+Croconaw
+Water
+
+159
+Once it bites down, it wont let go until it loses its fangs. New fangs quickly grow into place.
+Feraligatr
+Water
+
+160
+It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.
+Sentret
+Normal
+
+161
+It has a very nervous nature. It stands up high on its tail so it can scan wide areas.
+Furret
+Normal
+
+162
+The mother puts its offspring to sleep by curling up around them. It corners foes with speed.
+Hoothoot
+Flying
+Normal
+163
+It marks time precisely. Some countries consider it to be a wise friend, versed in the worlds ways.
+Noctowl
+Flying
+Normal
+164
+Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.
+Ledyba
+Bug
+Flying
+165
+It is so timid, it cant move if it isnt with a swarm of others. It conveys its feelings with scent.
+Ledian
+Bug
+Flying
+166
+It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.
+Spinarak
+Bug
+Poison
+167
+It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.
+Ariados
+Bug
+Poison
+168
+It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.
+Crobat
+Poison
+Flying
+169
+Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.
+Chinchou
+Electric
+Water
+170
+It discharges positive and negative electricity from its antenna tips to shock its foes.
+Lanturn
+Electric
+Water
+171
+Lanturns light can shine up from great depths. It is nicknamed The Deep-Sea Star.
+Pichu
+Electric
+
+172
+The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked
+Cleffa
+Fairy
+
+173
+According to local rumors, Cleffa are often seen in places where shooting stars have fallen.
+Igglybuff
+Fairy
+Normal
+174
+Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.
+Togepi
+Fairy
+
+175
+It transforms the kindness and joy of others into happiness, which it stores in its shell.
+Togetic
+Fairy
+Flying
+176
+To share its happiness, it flies around the world seeking kind- hearted people.
+Natu
+Psychic
+Flying
+177
+It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.
+Xatu
+Psychic
+Flying
+178
+This odd Pokémon can see both the past and the future. It eyes the suns movement all day.
+Mareep
+Electric
+
+179
+When cold weather increases static electricity, its wool doubles in size and the tip of its tail glows slightly.
+Flaaffy
+Electric
+
+180
+Not even downy wool will grow on its rubbery, nonconductive patches of skin that prevent electrical shock.
+Ampharos
+Electric
+
+181
+The tip of its tail shines so brightly it can be used to send sea-navigation beacons to distant foreign shores.
+Bellossom
+Grass
+
+182
+When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.
+Marill
+Fairy
+Water
+183
+The oil-filled tail functions as a buoy, so its fine even in rivers with strong currents.
+Azumarill
+Fairy
+Water
+184
+Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.
+Sudowoodo
+Rock
+
+185
+To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.
+Politoed
+Water
+
+186
+It gathers groups of others as their leader. Its cries make Poliwag obey.
+Hoppip
+Grass
+Flying
+187
+It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.
+Skiploom
+Grass
+Flying
+188
+It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.
+Jumpluff
+Grass
+Flying
+189
+Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.
+Aipom
+Normal
+
+190
+It lives high among the treetops. It can use its tail as freely and cleverly as its hands.
+Sunkern
+Grass
+
+191
+It suddenly falls out of the sky in the morning. Knowing its weak, it simply feeds until it evolves.
+Sunflora
+Grass
+
+192
+Since it converts sunlight into energy, it is always looking in the direction of the sun.
+Yanma
+Bug
+Flying
+193
+By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem.
+Wooper
+Water
+Ground
+194
+When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.
+Quagsire
+Water
+Ground
+195
+It has an easygoing nature. It doesnt care if it bumps its head on boats and boulders while swimming.
+Espeon
+Psychic
+
+196
+Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes thoughts.
+Umbreon
+Dark
+
+197
+When exposed to the moons aura, the rings on its body glow faintly and its filled with a mysterious power.
+Murkrow
+Dark
+Flying
+198
+If spotted, it will lure an unwary person into chasing it then lose the pursuer on mountain trails.
+Slowking
+Psychic
+Water
+199
+Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.
+Misdreavus
+Ghost
+
+200
+A Pokémon that startles people in the middle of the night. It gathers fear as its energy.
+Unown
+Psychic
+
+201
+When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.
+Wobbuffet
+Psychic
+
+202
+It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.
+Girafarig
+Psychic
+Normal
+203
+The head on its tail contains a small brain. It can instinctively fight even while facing backward.
+Pineco
+Bug
+
+204
+It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.
+Forretress
+Steel
+Bug
+205
+It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.
+Dunsparce
+Normal
+
+206
+It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.
+Gligar
+Ground
+Flying
+207
+It clamps on to its chosen prey then jabs the stinger on its tail into the prey while its stunned with surprise.
+Steelix
+Steel
+Ground
+208
+The iron it ingested with the soil it swallowed transformed its body and made it harder than diamonds.
+Snubbull
+Fairy
+
+209
+Small Pokémon flee from its scary face. It is, however, considered by women to be cute.
+Granbull
+Fairy
+
+210
+It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.
+Qwilfish
+Water
+Poison
+211
+It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.
+Scizor
+Steel
+Bug
+212
+It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.
+Shuckle
+Bug
+Rock
+213
+The berries stored in its vaselike shell eventually become a thick, pulpy juice.
+Heracross
+Bug
+Fighting
+214
+No matter how heavy its opponents, it flings them far away with its prized horn.
+Sneasel
+Dark
+Ice
+215
+A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.
+Teddiursa
+Normal
+
+216
+It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.
+Ursaring
+Normal
+
+217
+In its territory, it leaves scratches on trees that bear delicious berries or fruits.
+Slugma
+Fire
+
+218
+Its body is made of magma. If it doesnt keep moving, its body will cool and harden.
+Magcargo
+Fire
+Rock
+219
+Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.
+Swinub
+Ice
+Ground
+220
+Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring.
+Piloswine
+Ice
+Ground
+221
+With its excellent sense of smell, its even able to find mushrooms that are buried under frozen ground.
+Corsola
+Water
+Rock
+222
+They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.
+Remoraid
+Water
+
+223
+The water they shoot from their mouths can hit moving prey from more than 300 feet away.
+Octillery
+Water
+
+224
+It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.
+Delibird
+Ice
+Flying
+225
+It carries food all day long. When someone is lost in the mountains, it shares that food.
+Mantine
+Water
+Flying
+226
+If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean.
+Skarmory
+Steel
+Flying
+227
+Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.
+Houndour
+Dark
+Fire
+228
+It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.
+Houndoom
+Dark
+Fire
+229
+The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.
+Kingdra
+Dragon
+Water
+230
+It lives in caves on the seafloor and creates giant whirlpools every time it moves.
+Phanpy
+Ground
+
+231
+It is strong despite its compact size. It can easily pick up and carry an adult human on its back.
+Donphan
+Ground
+
+232
+It attacks by curling up then rolling into its foe. It can blow apart a house in one hit.
+Porygon2
+Normal
+
+233
+It was upgraded to enable the exploration of other planets. However, it failed to measure up.
+Stantler
+Normal
+
+234
+Staring at its antlers creates an odd sensation as if one were being drawn into their centers.
+Smeargle
+Normal
+
+235
+It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.
+Tyrogue
+Fighting
+
+236
+It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.
+Hitmontop
+Fighting
+
+237
+It fights while spinning like a top. The centrifugal force boosts its destructive power by 10.
+Smoochum
+Psychic
+Ice
+238
+It tests everything by touching with its lips, which remember what it likes and dislikes.
+Elekid
+Electric
+
+239
+Spinning its arms around to generate electricity makes the area between its horns shine light blue.
+Magby
+Fire
+
+240
+Its small, but its body temperature is over 1,100 degrees F. Embers escape its mouth and nose when it breathes.
+Miltank
+Normal
+
+241
+It is said that kids who drink Miltanks milk grow up to become hearty, healthy adults.
+Blissey
+Normal
+
+242
+The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.
+Raikou
+Electric
+
+243
+It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.
+Entei
+Fire
+
+244
+It is said that when it roars, a volcano erupts somewhere around the globe.
+Suicune
+Water
+
+245
+It races around the world to purify fouled water. It dashes away with the north wind.
+Larvitar
+Rock
+Ground
+246
+Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.
+Pupitar
+Rock
+Ground
+247
+This pupa flies around wildly by venting with great force the gas pressurized inside its body.
+Tyranitar
+Dark
+Rock
+248
+The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.
+Lugia
+Psychic
+Flying
+249
+It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.
+Ho-oh
+Fire
+Flying
+250
+Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.
+Celebi
+Psychic
+Grass
+251
+It has the power to travel across time, but it is said to appear only in peaceful times.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
