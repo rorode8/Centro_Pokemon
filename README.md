@@ -17,6 +17,9 @@ La aplicación esta diseñada con una arquitectura **Model–view–controller**
   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png "MVC model")
   
  ## Instalación
- 
+
+1. Descarga e instala [Java](https://www.java.com/)
+2. Descarga el repositorio, ya sea que lo descargues o lo clones via Git o descargues Centro_Pokemon-master via GitHub.
+3. Ejecuta el archivo `RUN.jar`
 
 
