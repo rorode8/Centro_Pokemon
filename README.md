@@ -1,13 +1,13 @@
 # Centro_Pokemon
 
 ## Table Of Contents:
-[Acerca de Centro Pokemon](#Acerca de Centro Pokémon)
+[Acerca de Centro Pokemon](#acerca-de-centro-pok%C3%A9mon)
 
-[Instalación]()
+[Instalación](#instalaci%C3%B3n)
 
 [Uso](#Uso)
 
-[Próximas Funcionalidades](#Próximas Funcionalidades)
+[Próximas Funcionalidades](#pr%C3%B3ximas-funcionalidades)
 
 ## Acerca de Centro Pokémon
 *Centro Pokemon* es la primera aplicación que desarrollé. El propósito de este proyecto fue implementar una GUI básica para manipular datos de Pokémon almacenados en la misma aplicación. Alrededor del proyecto se puede observar el uso de arreglos, matrices, coponentes visuales de JavaSwing y algunas otras librerias básicas de Java. El Centro Pokemon te permite visualizar información de los entrenadores que almacenes en él.
