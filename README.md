@@ -1,15 +1,15 @@
 # Centro_Pokemon
 
 ## Table Of Contents:
-[Acerca de Centro Pokemon]()
+[Acerca de Centro Pokemon](#Acerca de Centro Pokémon)
 
 [Instalación]()
 
-[Uso]()
+[Uso](#Uso)
 
-[Próximas Funcionalidades]()
+[Próximas Funcionalidades](#Próximas Funcionalidades)
 
-## Acerca de Centro Pokemon
+## Acerca de Centro Pokémon
 *Centro Pokemon* es la primera aplicación que desarrollé. El propósito de este proyecto fue implementar una GUI básica para manipular datos de Pokémon almacenados en la misma aplicación. Alrededor del proyecto se puede observar el uso de arreglos, matrices, coponentes visuales de JavaSwing y algunas otras librerias básicas de Java. El Centro Pokemon te permite visualizar información de los entrenadores que almacenes en él.
 
 La aplicación esta diseñada con una arquitectura **Model–view–controller**(conocida usualmente como **MVC**). Donde el usuario interactua a través del GUI y proporciona instrucciones al controlador. El controlador después se encarga de modificar la informacíon de la *entidad* que representa (también llamada *modelo*). Finalmente se actualiza la *vista* con los nuevos datos para que el usuario pueda observarlos.
@@ -59,11 +59,11 @@ Estos dos botones permiten añadir y eliminar Pokémon del entrenador selecciona
 
 ## Próximas funcionalidades
 
-El Centro Pokémon se encuentre en desarrollo y se planea agregar las siguientes funcionalidaes:
+El Centro Pokémon se encuentre en desarrollo y se planea agregar las siguientes funcionalidades:
 
 1. Expandir el número de Pokémon reconocido
   Actualmente la aplicación únicamente reconoce los Pokémon de las primeras dos regiones. 
   
 2. Funcionalidad en los íconos de los Pokémon
   Por el momento la única forma de interactuar con los Pokémon es a través de las formas que se despliegan al presionas alguno de los botones descritos en [Uso](#Uso).
-  Proximamente podrás clickear sobre los íconos para efectuar diferentes acciones. 
+  Próximamente podrás presionar los íconos para efectuar diferentes acciones.
