@@ -7,7 +7,7 @@
 
 [Uso]()
 
-[limitaciones]()
+[Próximas Funcionalidades]()
 
 ## Acerca de Centro Pokemon
 *Centro Pokemon* es la primera aplicación que desarrollé. El propósito de este proyecto fue implementar una GUI básica para manipular datos de Pokémon almacenados en la misma aplicación. Alrededor del proyecto se puede observar el uso de arreglos, matrices, coponentes visuales de JavaSwing y algunas otras librerias básicas de Java. El Centro Pokemon te permite visualizar información de los entrenadores que almacenes en él.
@@ -36,7 +36,7 @@ Aquí podrás rellenar algunos datos acerca del Centro Pokémon en específico. 
 
   ![](https://i.imgur.com/QEcDxmw.png "panel principal")
   
-Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se muestran graficamente los objetos en una *caja* de Pokémon; dos etiquetas que te proporcionan información acerca del entrenador seleccionado actualmente; 8 botones para interactuar con el programa, de los cuales destacamos cuatro:
+Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se muestran gráficamente los objetos en una *caja* de Pokémon; dos etiquetas que te proporcionan información acerca del entrenador seleccionado actualmente; 8 botones para interactuar con el programa, de los cuales destacamos cuatro:
 
 * make a Pokemon Inquiry:
 
@@ -46,13 +46,24 @@ Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se mu
 
   El segundo botón imprime el nombre de todos los entrenadores registrados en el *Centro Pokémon*. Esto nos sirve para la siguiente funcionalidad de la pantalla principal.
 
-  El tercer botón es un simple boton de regreso para volver a la pantalla principal.
+  El tercer botón es un simplemente te lleva de regreso a la pantalla principal.
 
 
 * Change trainer
 
   Al presionar este botón abriras una ventana, la de *change trainer*. Aquí podras generar un nuevo entrenador si así lo deseas marcando la casilla *new trainer*. Si solo deseas visualizar los Pokémon de otro entrenador diferente al seleccionado actualmente, escribe su nombre en esta nueva ventana y presiona *Accept*.
+  
+ * add / remove a Pokémon
 
+Estos dos botones permiten añadir y eliminar Pokémon del entrenador seleccionado. Para llevar a cabo cualquiera de las dos opciones, la aplicación requiere tres datos, el *nombre*, el *apodo* y el *nivel*.
 
+## Próximas funcionalidades
 
+El Centro Pokémon se encuentre en desarrollo y se planea agregar las siguientes funcionalidaes:
 
+1. Expandir el número de Pokémon reconocido
+  Actualmente la aplicación únicamente reconoce los Pokémon de las primeras dos regiones. 
+  
+2. Funcionalidad en los íconos de los Pokémon
+  Por el momento la única forma de interactuar con los Pokémon es a través de las formas que se despliegan al presionas alguno de los botones descritos en [](# Uso).
+  Proximamente podrás clickear sobre los íconos para efectuar diferentes acciones. 
