@@ -40,13 +40,13 @@ Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se mu
 
 * make a Pokemon Inquiry:
 
-Esta opción te muestra una ventana desde la cual puedes acceder a toda la información acerca del Centro Pokemon. La ventana contiene 3 botones y una caja de texto. 
+  Esta opción te muestra una ventana desde la cual puedes acceder a toda la información acerca del Centro Pokemon. La ventana contiene 3 botones y una caja de texto. 
 
-⋅⋅⋅El primer botón, *Print All Pokemon for Trainer* despliega una lista de todos los Pokémon del entrenador seleccionado, esto será particularmente útil a la hora de querer borrar Pokémon del usuario, pues necesitamos el nombre y apodo de aquel que queramos eliminar.
+  El primer botón, *Print All Pokemon for Trainer* despliega una lista de todos los Pokémon del entrenador seleccionado, esto será particularmente útil a la hora de querer borrar Pokémon del usuario, pues necesitamos el nombre y apodo de aquel que queramos eliminar.
 
-⋅⋅⋅El segundo botón imprime el nombre de todos los entrenadores registrados en el *Centro Pokémon*. Esto nos sirve para la siguiente funcionalidad de la pantalla principal.
+  El segundo botón imprime el nombre de todos los entrenadores registrados en el *Centro Pokémon*. Esto nos sirve para la siguiente funcionalidad de la pantalla principal.
 
-⋅⋅⋅El tercer botón es un simple boton de regreso para volver a la pantalla principal.
+  El tercer botón es un simple boton de regreso para volver a la pantalla principal.
 
 
 * Change trainer
