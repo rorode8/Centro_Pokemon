@@ -36,7 +36,18 @@ Aquí podrás rellenar algunos datos acerca del Centro Pokémon en específico. 
 
   ![](https://i.imgur.com/QEcDxmw.png "panel principal")
   
-Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se muestran graficamente los objetos en una *caja* de Pokémon; dos etiquetas que te proporcionan información acerca del entrenador seleccionado actualmente; 8 botones cuya funcionalidades son las siguietes:
+Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se muestran graficamente los objetos en una *caja* de Pokémon; dos etiquetas que te proporcionan información acerca del entrenador seleccionado actualmente; 8 botones para interactuar con el programa, de los cuales destacamos cuatro:
 
- 
+* make a Pokemon Inquiry:
+
+...Esta opción te muestra una ventana desde la cual puedes acceder a toda la información acerca del Centro Pokemon. La ventana contiene 3 botones:
+... * Print All Pokemon for Trainer
+... ... x
+
+* Change trainer
+
+...Al presionar este botón abriras una ventana, la de *change trainer*. Aquí podras generar un nuevo entrenador si así lo deseas marcando la casilla *new trainer*. Si solo deseas visualizar los Pokémon de otro entrenador diferente al seleccionado actualmente, escribe su nombre en esta nueva ventana y presiona *Accept*.
+
+
+
 
