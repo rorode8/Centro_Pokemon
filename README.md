@@ -10,7 +10,7 @@
 [limitaciones]()
 
 ## Acerca de Centro Pokemon
-*Centro Pokemon* es la primera aplicación que desarrollé. El propósito de este proyecto fue implementar una GUI básica para manipular datos de Pokémon almacenados en la misma aplicación. Alrededor del proyecto se puede observar el uso de arreglos, matrices, coponentes visuales de JavaSwing y algunas otras librerias básicas de Java.
+*Centro Pokemon* es la primera aplicación que desarrollé. El propósito de este proyecto fue implementar una GUI básica para manipular datos de Pokémon almacenados en la misma aplicación. Alrededor del proyecto se puede observar el uso de arreglos, matrices, coponentes visuales de JavaSwing y algunas otras librerias básicas de Java. El Centro Pokemon te permite visualizar información de los entrenadores que almacenes en él.
 
 La aplicación esta diseñada con una arquitectura **Model–view–controller**(conocida usualmente como **MVC**). Donde el usuario interactua a través del GUI y proporciona instrucciones al controlador. El controlador después se encarga de modificar la informacíon de la *entidad* que representa (también llamada *modelo*). Finalmente se actualiza la *vista* con los nuevos datos para que el usuario pueda observarlos.
 
@@ -51,7 +51,7 @@ Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se mu
 
 * Change trainer
 
-⋅⋅⋅Al presionar este botón abriras una ventana, la de *change trainer*. Aquí podras generar un nuevo entrenador si así lo deseas marcando la casilla *new trainer*. Si solo deseas visualizar los Pokémon de otro entrenador diferente al seleccionado actualmente, escribe su nombre en esta nueva ventana y presiona *Accept*.
+  Al presionar este botón abriras una ventana, la de *change trainer*. Aquí podras generar un nuevo entrenador si así lo deseas marcando la casilla *new trainer*. Si solo deseas visualizar los Pokémon de otro entrenador diferente al seleccionado actualmente, escribe su nombre en esta nueva ventana y presiona *Accept*.
 
 
 
