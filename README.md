@@ -65,5 +65,5 @@ El Centro Pokémon se encuentre en desarrollo y se planea agregar las siguientes
   Actualmente la aplicación únicamente reconoce los Pokémon de las primeras dos regiones. 
   
 2. Funcionalidad en los íconos de los Pokémon
-  Por el momento la única forma de interactuar con los Pokémon es a través de las formas que se despliegan al presionas alguno de los botones descritos en [](# Uso).
+  Por el momento la única forma de interactuar con los Pokémon es a través de las formas que se despliegan al presionas alguno de los botones descritos en [Uso](#Uso).
   Proximamente podrás clickear sobre los íconos para efectuar diferentes acciones. 
