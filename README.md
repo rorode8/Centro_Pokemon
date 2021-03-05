@@ -1,4 +1,4 @@
-# Centro_Pokemon
+# Centro Pokemon
 
 ## Table Of Contents:
 [Acerca de Centro Pokemon](#acerca-de-centro-pok%C3%A9mon)
