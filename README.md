@@ -69,7 +69,7 @@ Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se mu
   
  * add / remove a Pokémon
 
-  Estos dos botones permiten añadir y eliminar Pokémon del entrenador seleccionado. Para llevar a cabo cualquiera de las dos opciones, la aplicación requiere tres datos, el *nombre*, el *apodo* y el *nivel*.
+  Estos dos botones permiten añadir y eliminar Pokémon del entrenador seleccionado. Para llevar a cabo cualquiera de las dos opciones, la aplicación requiere tres datos, el      *nombre*, el *apodo* y el *nivel*.
 
 ## Próximas funcionalidades
 
