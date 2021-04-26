@@ -47,7 +47,7 @@ Aquí podrás rellenar algunos datos acerca del Centro Pokémon en específico. 
   
   ![](https://i.imgur.com/QEcDxmw.png "panel principal")
   <p align="center">
-      <b>Figura 3:</b> Pantalla principal del Centro Pokémon, es desde aquí donde se puede acceder a la mayoría de las funcionalidades.
+      <b>Figura 3:</b> Pantalla principal de Centro Pokémon, es desde aquí donde se puede acceder a la mayoría de las funcionalidades.
     </p>
   
 Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se muestran gráficamente los objetos en una *caja* de Pokémon; dos etiquetas que te proporcionan información acerca del entrenador seleccionado actualmente; 8 botones para interactuar con el programa, de los cuales destacamos cuatro:
