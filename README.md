@@ -1,6 +1,6 @@
 # Centro Pokémon
 
-Centro Pokémon es un gestor de Pokémon con interfaz visual. La aplicación diseñada en Java es capaz de generar y modificar una base de datos interna. El proposito de la aplicación es facilitar el manejo de Pokémon en un mundo imaginario.
+Centro Pokémon es un gestor de Pokémon con interfaz visual. La aplicación diseñada en Java es capaz de generar y modificar una base de datos interna. El propósito de la aplicación es facilitar el manejo de Pokémon en un mundo imaginario. Para cumplir dicho propósito, el software dispone de varias funcionalidades como agregar y quitar Pokémon, mostrar los Pokémon de forma visual, acceder a información detallada de los Pokémon, etc. 
 
 ## Tabla de Contenidos:
 [Acerca de Centro Pokémon](#acerca-de-centro-pok%C3%A9mon)
@@ -18,13 +18,14 @@ La aplicación está diseñada con una arquitectura **Model–view–controller*
 
   ![diagrama MVC](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png "MVC model")
   <p align="center">
-    <b>Figura 1:</b> Diagrama MVC que muestra el flujo de trabajo de la aplicación
+    <b>Figura 1:</b> Diagrama MVC que muestra el flujo de trabajo de la aplicación.
   </p>
- ## Instalación
+  
+## Instalación
 
-1. Descarga e instala [Java](https://www.java.com/)
-2. obtén el repositorio, ya sea clonandolo vía Git o descargandolo vía GitHub.
-3. Ejecuta el archivo `RUN.jar`
+1. Descarga e instala [Java](https://www.java.com/).
+2. obtén el repositorio, ya sea clonandolo vía Git o descargandolo vía GitHub
+3. Ejecuta el archivo `RUN.jar`.
 
 ## Uso 
 
@@ -59,7 +60,7 @@ Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se mu
   
  * add / remove a Pokémon
 
-Estos dos botones permiten añadir y eliminar Pokémon del entrenador seleccionado. Para llevar a cabo cualquiera de las dos opciones, la aplicación requiere tres datos, el *nombre*, el *apodo* y el *nivel*.
+  Estos dos botones permiten añadir y eliminar Pokémon del entrenador seleccionado. Para llevar a cabo cualquiera de las dos opciones, la aplicación requiere tres datos, el *nombre*, el *apodo* y el *nivel*.
 
 ## Próximas funcionalidades
 
