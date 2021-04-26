@@ -14,7 +14,7 @@ Centro Pokémon es un gestor de Pokémon con interfaz visual. La aplicación dis
 ## Acerca de Centro Pokémon
 Centro Pokémon es la primera aplicación que desarrollé. El propósito de este proyecto fue implementar una GUI básica para manipular datos de Pokémon almacenados en la misma aplicación. Alrededor del proyecto se puede observar el uso de arreglos, matrices, componentes visuales de JavaSwing y algunas otras librerías básicas de Java. El Centro Pokémon te permite visualizar información de los entrenadores que almacenes en él.
 
-La aplicación está diseñada con una arquitectura **Model–view–controller** (conocida usualmente como **MVC**). Donde el usuario interactúa a través del GUI y proporciona instrucciones al controlador. El controlador después se encarga de modificar la información de la *entidad* que representa (también llamada *modelo*). Finalmente se actualiza la *vista* con los nuevos datos para que el usuario pueda observarlos.
+La aplicación está diseñada con una arquitectura **Model–view–controller** (conocida usualmente como **MVC**). En dicha arquitectura, el usuario interactúa a través del GUI y proporciona instrucciones al controlador. El controlador después se encarga de modificar la información de la *entidad* que representa (también llamada *modelo*). Finalmente se actualiza la *vista* con los nuevos datos para que el usuario pueda observarlos.
 
   ![diagrama MVC](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png "MVC model")
   <p align="center">
