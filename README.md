@@ -1,6 +1,6 @@
 # Centro Pokémon
 
-*Centro Pokémon* es un gestor de Pokémon con interfaz visual. La aplicación diseñada en Java es capaz de generar y modificar una base de datos interna. El proposito de la aplicación es facilitar el manejo de Pokémon en un mundo imaginario.
+Centro Pokémon es un gestor de Pokémon con interfaz visual. La aplicación diseñada en Java es capaz de generar y modificar una base de datos interna. El proposito de la aplicación es facilitar el manejo de Pokémon en un mundo imaginario.
 
 ## Tabla de Contenidos:
 [Acerca de Centro Pokémon](#acerca-de-centro-pok%C3%A9mon)
@@ -12,16 +12,18 @@
 [Próximas Funcionalidades](#pr%C3%B3ximas-funcionalidades)
 
 ## Acerca de Centro Pokémon
-*Centro Pokémon* es la primera aplicación que desarrollé. El propósito de este proyecto fue implementar una GUI básica para manipular datos de Pokémon almacenados en la misma aplicación. Alrededor del proyecto se puede observar el uso de arreglos, matrices, componentes visuales de JavaSwing y algunas otras librerías básicas de Java. El Centro Pokémon te permite visualizar información de los entrenadores que almacenes en él.
+Centro Pokémon es la primera aplicación que desarrollé. El propósito de este proyecto fue implementar una GUI básica para manipular datos de Pokémon almacenados en la misma aplicación. Alrededor del proyecto se puede observar el uso de arreglos, matrices, componentes visuales de JavaSwing y algunas otras librerías básicas de Java. El Centro Pokémon te permite visualizar información de los entrenadores que almacenes en él.
 
-La aplicación está diseñada con una arquitectura **Model–view–controller**(conocida usualmente como **MVC**). Donde el usuario interactúa a través del GUI y proporciona instrucciones al controlador. El controlador después se encarga de modificar la información de la *entidad* que representa (también llamada *modelo*). Finalmente se actualiza la *vista* con los nuevos datos para que el usuario pueda observarlos.
+La aplicación está diseñada con una arquitectura **Model–view–controller** (conocida usualmente como **MVC**). Donde el usuario interactúa a través del GUI y proporciona instrucciones al controlador. El controlador después se encarga de modificar la información de la *entidad* que representa (también llamada *modelo*). Finalmente se actualiza la *vista* con los nuevos datos para que el usuario pueda observarlos.
 
-  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png "MVC model")
-  
+  ![diagrama MVC](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png "MVC model")
+  <p align="center">
+    <b>Figura 1:</b> Diagrama MVC que muestra el flujo de trabajo de la aplicación
+  </p>
  ## Instalación
 
 1. Descarga e instala [Java](https://www.java.com/)
-2. Descarga el repositorio, ya sea que lo descargues o lo clones vía Git o descargues Centro_Pokémon-master vía GitHub.
+2. obtén el repositorio, ya sea clonandolo vía Git o descargandolo vía GitHub.
 3. Ejecuta el archivo `RUN.jar`
 
 ## Uso 
