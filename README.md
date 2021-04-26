@@ -34,7 +34,8 @@ La aplicación está diseñada con una arquitectura **Model–view–controller*
 Al Abrir el programa, la primera ventana que observarás es la siguiente:  
   
    <p align="center">
-      <img width="460" height="300" src="https://i.imgur.com/FO903cg.png" alt="primera pantalla">
+      <img src="https://i.imgur.com/FO903cg.png" alt="primera pantalla">
+      <br>
       <b>Figura 2:</b> Pantalla de inicio de Centro Pokémon.
    </p>
   
