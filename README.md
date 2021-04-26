@@ -33,13 +33,24 @@ La aplicación está diseñada con una arquitectura **Model–view–controller*
 
 Al Abrir el programa, la primera ventana que observarás es la siguiente:
 
-  ![](https://i.imgur.com/FO903cg.png "primera pantalla")
+
+  
+  
+    <p align="center">
+      <img width="460" height="300" src="https://i.imgur.com/FO903cg.png" alt="primera pantalla">
+      <b>Figura 2:</b> Pantalla de inicio de Centro Pokémon.
+    </p>
+  
  
 Aquí podrás rellenar algunos datos acerca del Centro Pokémon en específico. El programa usa los datos que proporciones aquí para generar una entidad representativa dentro de la aplicación. Una vez que hayan proporcionado la información necesaria, puedes continuar y presionar el botón *accept*.
 
 ### Pantalla Principal
-
+  
+  
   ![](https://i.imgur.com/QEcDxmw.png "panel principal")
+  <p align="center">
+      <b>Figura 3:</b> Pantalla principal del Centro Pokémon, es desde aquí donde se puede acceder a la mayoría de las funcionalidades.
+    </p>
   
 Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se muestran gráficamente los objetos en una *caja* de Pokémon; dos etiquetas que te proporcionan información acerca del entrenador seleccionado actualmente; 8 botones para interactuar con el programa, de los cuales destacamos cuatro:
 
