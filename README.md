@@ -52,7 +52,7 @@ Aquí podrás rellenar algunos datos acerca del Centro Pokémon en específico. 
   
 Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se muestran gráficamente los objetos en una *caja* de Pokémon; dos etiquetas que te proporcionan información acerca del entrenador seleccionado actualmente; 8 botones para interactuar con el programa, de los cuales destacamos cuatro:
 
-* make a Pokémon Inquiry:
+* make a Pokémon Inquiry
 
 Esta opción te muestra una ventana desde la cual puedes acceder a toda la información acerca del Centro Pokémon. La ventana contiene 3 botones y una caja de texto. 
 
