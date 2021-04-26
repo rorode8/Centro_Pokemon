@@ -3,13 +3,13 @@
 Centro Pokémon es un gestor de Pokémon con interfaz visual. La aplicación diseñada en Java es capaz de generar y modificar una base de datos interna. El propósito de la aplicación es facilitar el manejo de Pokémon en un mundo imaginario. Para cumplir dicho propósito, el software dispone de varias funcionalidades como agregar y quitar Pokémon, mostrar los Pokémon de forma visual, acceder a información detallada de los Pokémon, etc. 
 
 ## Tabla de Contenidos:
-[Acerca de Centro Pokémon](#acerca-de-centro-pok%C3%A9mon)
+* [Acerca de Centro Pokémon](#acerca-de-centro-pok%C3%A9mon)
 
-[Instalación](#instalaci%C3%B3n)
+* [Instalación](#instalaci%C3%B3n)
 
-[Uso](#Uso)
+* [Uso](#Uso)
 
-[Próximas Funcionalidades](#pr%C3%B3ximas-funcionalidades)
+* [Próximas Funcionalidades](#pr%C3%B3ximas-funcionalidades)
 
 ## Acerca de Centro Pokémon
 Centro Pokémon es la primera aplicación que desarrollé. El propósito de este proyecto fue implementar una GUI básica para manipular datos de Pokémon almacenados en la misma aplicación. Alrededor del proyecto se puede observar el uso de arreglos, matrices, componentes visuales de JavaSwing y algunas otras librerías básicas de Java. El Centro Pokémon te permite visualizar información de los entrenadores que almacenes en él.
