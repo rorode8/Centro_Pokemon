@@ -54,22 +54,22 @@ Una vez dentro del sistema, la interfaz te proporciona: un panel en el que se mu
 
 * make a Pokémon Inquiry:
 
-  Esta opción te muestra una ventana desde la cual puedes acceder a toda la información acerca del Centro Pokémon. La ventana contiene 3 botones y una caja de texto. 
+Esta opción te muestra una ventana desde la cual puedes acceder a toda la información acerca del Centro Pokémon. La ventana contiene 3 botones y una caja de texto. 
 
-  El primer botón, *Print All Pokémon for Trainer* despliega una lista de todos los Pokémon del entrenador seleccionado, esto será particularmente útil a la hora de querer borrar Pokémon del usuario, pues necesitamos el nombre y apodo de aquel que queramos eliminar.
+El primer botón, *Print All Pokémon for Trainer* despliega una lista de todos los Pokémon del entrenador seleccionado, esto será particularmente útil a la hora de querer borrar Pokémon del usuario, pues necesitamos el nombre y apodo de aquel que queramos eliminar.
 
-  El segundo botón imprime el nombre de todos los entrenadores registrados en el *Centro Pokémon*. Esto nos sirve para la siguiente funcionalidad de la pantalla principal.
+El segundo botón imprime el nombre de todos los entrenadores registrados en el *Centro Pokémon*. Esto nos sirve para la siguiente funcionalidad de la pantalla principal.
 
-  El tercer botón es un simplemente te lleva de regreso a la pantalla principal.
+El tercer botón es un simplemente te lleva de regreso a la pantalla principal.
 
 
 * Change trainer
 
-  Al presionar este botón abriras una ventana, la de *change trainer*. Aquí podrás generar un nuevo entrenador si así lo deseas marcando la casilla *new trainer*. Si solo deseas visualizar los Pokémon de otro entrenador diferente al seleccionado actualmente, escribe su nombre en esta nueva ventana y presiona *Accept*.
+Al presionar este botón abriras una ventana, la de *change trainer*. Aquí podrás generar un nuevo entrenador si así lo deseas marcando la casilla *new trainer*. Si solo deseas visualizar los Pokémon de otro entrenador diferente al seleccionado actualmente, escribe su nombre en esta nueva ventana y presiona *Accept*.
   
  * add / remove a Pokémon
 
-  Estos dos botones permiten añadir y eliminar Pokémon del entrenador seleccionado. Para llevar a cabo cualquiera de las dos opciones, la aplicación requiere tres datos, el      *nombre*, el *apodo* y el *nivel*.
+Estos dos botones permiten añadir y eliminar Pokémon del entrenador seleccionado. Para llevar a cabo cualquiera de las dos opciones, la aplicación requiere tres datos, el      *nombre*, el *apodo* y el *nivel*.
 
 ## Próximas funcionalidades
 
